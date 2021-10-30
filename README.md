@@ -1,5 +1,5 @@
 <center>
-	<img src="images/Logo.png" width="1058px" alt="TheBocoQuest Logo"/>
+	<img src="images/Logo.png" width=1058 alt="TheBocoQuest Logo"/>
 </center>
 
 ---
@@ -14,15 +14,16 @@ Desenvolvido por Isabelle Neves Porto e Tiago Civatti Frausino
 > Os integrantes do grupo foram: Tiago C. Frausino, Isabelle N. Porto, e Luana Rocha.  
 > O jogo foi bem popular entre a turma durante a apresentação, mas o ranking propriamente dito nunca foi divulgado, pois o projeto de criação de jogos foi cancelado devido à reclamação dos alunos :(
 
+<br>
 
 > ## Como Jogar
-> <table>
+> <table border=0>
 <tr>
-<td><img src="images/player.png" width="363px" alt="Hero"></td>
+<td><img src="images/player.png" width=242 alt="Hero"></td>
 <td>
-A D - Andar  
-Space - Pular
-S - Defender
+A D - Andar  <br>
+Space - Pular  <br>
+S - Defender  <br>
 </td>
 </tr>
 </table>
