@@ -6,6 +6,8 @@
 
 # TheBocóQuest
 Desenvolvido por Isabelle Neves Porto e Tiago Civatti Frausino
+![Unity](https://img.shields.io/badge/Unity-ffffff?logo=Unity&logoColor=black&style=For-The-Badge)
+![C#](https://img.shields.io/badge/C%20Sharp-239120?logo=csharp&style=for-the-badge)
 
 ---
 
@@ -16,10 +18,22 @@ Desenvolvido por Isabelle Neves Porto e Tiago Civatti Frausino
 
 <br>
 
+> ## O Jogo
+> TheBocóQuest se trata da missão do Herói Bocó de resgatar a Princesa que foi sequestrada pelo Mago. O Herói terá que enfrentar diversos perigos, derrotar monstros e superar obstáculos durante a sua aventura.  
+> Gênero: Aventura, Plataforma
+
+<br>
+
 > ## Como Jogar
 > A D - Andar  
 > Space - Pular  
 > S - Defender 
->   
+> <br>
 > <img src="images/player.png" width=121 alt="Hero">
+
+<br>
+
+> ## Download
+> Baixe o jogo [aqui](https://raw.github.com/IsabelleNP/TheBocoQuest/main/TheBocoQuest.exe). 
+> Ou então jogue online aqui (ainda não funciona..)
 
