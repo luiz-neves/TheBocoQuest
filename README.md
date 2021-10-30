@@ -1,1 +1,1 @@
-"# TheBocoQuest" 
+![TheBocoQuest](Logo.png)
