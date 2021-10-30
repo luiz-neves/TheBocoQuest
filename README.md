@@ -17,13 +17,8 @@ Desenvolvido por Isabelle Neves Porto e Tiago Civatti Frausino
 <br>
 
 > ## Como Jogar
-> <table border=0>
-<tr>
-<td><img src="images/player.png" width=242 alt="Hero"></td>
-<td>
-A D - Andar  <br>
-Space - Pular  <br>
-S - Defender  <br>
-</td>
-</tr>
-</table>
+> A D - Andar
+> Space - Pular
+> S - Defender
+> <img src="images/player.png" width=121 alt="Hero">
+
