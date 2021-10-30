@@ -19,6 +19,7 @@ Desenvolvido por Isabelle Neves Porto e Tiago Civatti Frausino
 > ## Como Jogar
 > A D - Andar  
 > Space - Pular  
-> S - Defender  
+> S - Defender 
+>   
 > <img src="images/player.png" width=121 alt="Hero">
 
