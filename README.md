@@ -24,12 +24,6 @@ Desenvolvido por Isabelle Neves Porto e Tiago Civatti Frausino
 
 <br><br><br>
 
-<center>
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/DdNuji0Ld6M/0.jpg)](http://www.youtube.com/watch?v=DdNuji0Ld6M)
-</center>
-
-<br>
-
  ## Como Jogar
 <img align="right" src="images/player.png" width=145 alt="Hero">  
 
@@ -57,6 +51,15 @@ Algumas imagens retiradas do jogo.
 		<img src="images/screenshot6.PNG" alt="Fase da Floresta"><br><br><br>
 	</div>
 </details>
+
+<br>
+
+## Assista ao Trailer
+	
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=DdNuji0Ld6M" target="_blank"><img src="http://img.youtube.com/vi/DdNuji0Ld6M/3.jpg" alt="Assista ao Trailer de TheBocóQuest" width=240 height=180 border=10 /></a>
+<br>
+https://www.youtube.com/watch?v=DdNuji0Ld6M
+
 
 <br>
 
