@@ -35,6 +35,18 @@ Desenvolvido por Isabelle Neves Porto e Tiago Civatti Frausino
 
 <br>
 
+<details>
+<summary><h2>Screenshots</h2></summary>
+<center>
+<img src="images/screenshot1.png" alt="Imagem da Tela de Inicio">
+<img src="images/screenshot2.png" alt="O Heroi e o Rei">
+<img src="images/screenshot3.png" alt="Obstaculos">
+<img src="images/screenshot4.png" alt="Inimigos">
+<img src="images/screenshot5.png" alt="Cavalinho!">
+<img src="images/screenshot6.png" alt="Fase da Floresta">
+</center>
+</details>
+
 ## Download
 > ### Baixe o jogo [aqui](https://raw.github.com/IsabelleNP/TheBocoQuest/main/TheBocoQuest.exe).  
 > Ou então jogue online aqui (ainda não funciona..)
