@@ -18,15 +18,15 @@ Desenvolvido por Isabelle Neves Porto e Tiago Civatti Frausino
 <br>
 
  ## O Jogo
-> <img align="left" src="images/king.png" width=154 alt="The High King">
+> <img align="left" src="images/king.png" width=154 alt="The High King"><br>
 > **TheBocóQuest** se trata da missão do Herói Bocó de resgatar a Princesa que foi sequestrada pelo Mago. O Herói terá que enfrentar diversos perigos, derrotar monstros e superar obstáculos durante a sua aventura.  
 > **Gênero:** `Aventura, Plataforma`
 
-<br>
+<br><br><br>
 
  ## Como Jogar
 > <img align="right" src="images/player.png" width=121 alt="Hero">  
-| Controles** | O que faz |
+| Controles | O que faz |
 | :-------: | :-------: |
 |A D        | Andar     |
 |Space|Pular|
