@@ -24,6 +24,12 @@ Desenvolvido por Isabelle Neves Porto e Tiago Civatti Frausino
 
 <br><br><br>
 
+<center>
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/DdNuji0Ld6M/0.jpg)](http://www.youtube.com/watch?v=DdNuji0Ld6M)
+</center>
+
+<br>
+
  ## Como Jogar
 <img align="right" src="images/player.png" width=145 alt="Hero">  
 
